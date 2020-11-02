@@ -1,0 +1,14 @@
+[
+  {
+    "sink": "file",
+    "loglevel": "debug",
+    "filelocation": "D:\\Loggers\\src\\main\\resources\\Log.log",
+    "timestampformat": "dd-mm-yyyy HH:mm:ss"
+  },
+  {
+    "sink": "file",
+    "loglevel": "info",
+    "filelocation": "D:\\Loggers\\src\\main\\resources\\Log1.log",
+    "timestampformat": "dd-mm-yyyy"
+  }
+]
